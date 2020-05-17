@@ -1,2 +1,2 @@
 # Multi-level-text-classification
-Classification of text using Neural Net
+Classification of text using Tfidf and Logistic regression
