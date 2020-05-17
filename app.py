@@ -41,7 +41,7 @@ def tfid_get_feature_values(y,tf_scores):
 # In[4]:
 
 
-df=pd.read_excel("Desktop/2749936_mongodb_data.xls")
+df=pd.read_excel("2749936_mongodb_data.xls")
 
 
 # In[5]:
