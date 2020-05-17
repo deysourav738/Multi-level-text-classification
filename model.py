@@ -66,7 +66,7 @@ def tfid_get_feature_values(y,tf_scores):
 # In[6]:
 
 
-data=pd.read_excel("Desktop/2749933_Entities.xlsx")
+data=pd.read_excel("2749933_Entities.xlsx")
 
 
 # In[7]:
@@ -277,7 +277,7 @@ pickle.dump(tf_scores,open('tf_scores.pkl','wb'))
 # In[91]:
 
 
-df=pd.read_excel("Desktop/2749936_mongodb_data.xls")
+df=pd.read_excel("2749936_mongodb_data.xls")
 
 
 # In[92]:
